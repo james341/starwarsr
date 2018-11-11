@@ -100,12 +100,12 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "", name: "Ultra 5 Gaming - "},
-	{youtube: "uYW8KOK50IQ", name: "Ultra 5 Gaming - Installation Music"},
-        {youtube: "7S7I3EFt3q4", name: "Ultra 5 Gaming - Dragon - Are You Old Enough"},
-        {youtube: "vvucj_1NQ5M", name: "Ultra 5 Gaming - Track 23"},
-        {youtube: "0-441OIxpes", name: "Ultra 5 Gaming - Track 7"},
-        {youtube: "ZOMG2Cxxn6k", name: "Ultra 5 Gaming - Choir Boys - Run To Paradise"},
-        {youtube: "", name: "Ultra 5 Gaming - "},
+	{youtube: "D0ZQPqeJkk", name: "Atlas Gaming - Star Wars Main Theme"},
+        {youtube: "bzWSJG93P8", name: "Atlas Gaming - The Imperial March"},
+        {youtube: "qSgJeVwjnpc", name: "Atlas Gaming - Let it Flow"},
+        {youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Yankovic - The Saga Begins"},
+        {youtube: "eJTdIpYPrm0", name: "Atlas Gaming - Last Jedi Knight"},
+        {youtube: "", name: "Atlas Gaming - "},
 
 
 ];
@@ -122,25 +122,25 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"You are allowed to keep someone kidnapped for a maximum of 10 minutes!",
-	"RDM John kills Billy because why not (this does not include death matches that involve job rules ex: Pissed Baby killing Pedophiles!",
-	"Please do not prop climb, surf, kill, block, bridge, push, trap or spam!",
+	"Do not harass or disrespect others!",
+	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
+	"In game currency may not be sold or traded for real life items, currency or credits!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
-        "Keypads must be working, have a hold length of 4 seconds, and be placed next to the door they open!",
-        "Dont Harrass people (Follow people, annoy people)!",
+        "Clones are not to enter AOS areas without the correct rank, doing so can result in an arrest by CG!",
+        "Naval cannot bail themselves out of jail, or order someone to bail them out of jail!",
         "Do report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
-        "There must be at least one entrance  and exit to the base!",
-        "Please Do not mug people 5 million at times a minute (wait like 3 minutes for the same person!",
-        "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
-        "Do not prop block. (Purposely block players or Block rooms without a keypad!",
+        "Jedi that are listed as officers within their linked battalion have all the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
+        "You may opt out of being in an event but you MUST not get in the way of the event, as well you cannot use any authority you have to tell others they cannot participate just because you don't wish to!",
+        "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
+        "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Do as the staff say. If you are speaking over the admin this is considered disrespect. You will be punished!",
-        "No Bunny Hopping. It is unrealistic!",
-        "Do not use chain adverts, at most you can have ONE action on ONE bind. (Ex: raid/raid over, PD raid/raid, These are not allowed!",
-        "CitizenHack is not Allowed if caught. it's a permanent ban!",
-        "Goverment officials (Mayor, Police, SWAT) are not allowed to have money printers!",
-        "Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
-        "Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums!",
-        "No random lockdowns, (you must give a reason) random lockdowns will result in a permanent job ban!",
+        "If you are told to stop, you stop. Make an appeal or report if you disagree with a decision!",
+        "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
+        "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
+        "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
+        "Do not use OOC for Roleplay purposes!",
+        "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
+        "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "If your friend is a hitman you may NOT help him complete his hit. It does not matter if you are in the same gang or not. You could only potentially interfere if the person shot you directly!"
 ];
