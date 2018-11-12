@@ -100,12 +100,12 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
 	{youtube: "", name: "Ultra 5 Gaming - "},
-	{youtube: "D0ZQPqeJkk", name: "Atlas Gaming - Star Wars Main Theme"},
-        {youtube: "bzWSJG93P8", name: "Atlas Gaming - The Imperial March"},
-        {youtube: "qSgJeVwjnpc", name: "Atlas Gaming - Let it Flow"},
+	{youtube: "1cp0bUVMKps", name: "Atlas Gaming - Clone Wars Tribute - REMAKE - Battle Scars"},
+        {youtube: "dLHCS6oL7lo", name: "Atlas Gaming - Holding Out For a Hero"},
+        {youtube: "8qO23cJ7US0", name: "Atlas Gaming - I Just Haven't Killed You Yet"},
         {youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Yankovic - The Saga Begins"},
         {youtube: "eJTdIpYPrm0", name: "Atlas Gaming - Last Jedi Knight"},
-        {youtube: "", name: "Atlas Gaming - "},
+        {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Meghan Trainor's All About That Bass"},
 
 
 ];
@@ -142,7 +142,7 @@ var l_messages = [
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
-        "If your friend is a hitman you may NOT help him complete his hit. It does not matter if you are in the same gang or not. You could only potentially interfere if the person shot you directly!"
+        "If you are a clone recruit you MUST not leave spawn unless you are being trained!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
