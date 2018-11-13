@@ -128,7 +128,7 @@ var l_messages = [
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Clones are not to enter AOS areas without the correct rank, doing so can result in an arrest by CG!",
         "Naval cannot bail themselves out of jail, or order someone to bail them out of jail!",
-        "Do report bugs / exploits! Using them to your own advantage and not reporting them will have you banned!", 
+        "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Jedi that are listed as officers within their linked battalion have all the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
         "You may opt out of being in an event but you MUST not get in the way of the event, as well you cannot use any authority you have to tell others they cannot participate just because you don't wish to!",
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
@@ -138,11 +138,13 @@ var l_messages = [
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "Do not use OOC for Roleplay purposes!",
+        "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
-        "If you are a clone recruit you MUST not leave spawn unless you are being trained!"
+        "If you are a clone recruit you MUST not leave spawn unless you are being trained!",
+        "Disgusting or Shock Content will result in bans (determined by content!",
+        "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
