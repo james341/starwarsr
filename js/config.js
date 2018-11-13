@@ -99,7 +99,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "", name: "Ultra 5 Gaming - "},
+	{youtube: "qJlbPXZEpRE", name: "Atlas Gaming - The Star Wars That I Used To Know"},
 	{youtube: "1cp0bUVMKps", name: "Atlas Gaming - Clone Wars Tribute - REMAKE - Battle Scars"},
         {youtube: "dLHCS6oL7lo", name: "Atlas Gaming - Holding Out For a Hero"},
         {youtube: "8qO23cJ7US0", name: "Atlas Gaming - I Just Haven't Killed You Yet"},
