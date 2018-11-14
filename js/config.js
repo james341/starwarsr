@@ -106,6 +106,7 @@ var l_musicPlaylist = [
         {youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Yankovic - The Saga Begins"},
         {youtube: "eJTdIpYPrm0", name: "Atlas Gaming - Last Jedi Knight"},
         {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Meghan Trainor's All About That Bass"},
+        {youtube: "VzC5jjdZ-J8", name: "Atlas Gaming - Solo Laner Coldplay - PARODY"},
 
 
 ];
@@ -144,7 +145,9 @@ var l_messages = [
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "If you are a clone recruit you MUST not leave spawn unless you are being trained!",
         "Disgusting or Shock Content will result in bans (determined by content!",
-        "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!"
+        "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
+        "Friendly banter is fine, but must stop if it's going to far or the other person doesn't like it!"
+        "Do not threaten other players. You will be permanently removed if caught threatening a player!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
