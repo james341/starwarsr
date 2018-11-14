@@ -146,7 +146,7 @@ var l_messages = [
         "If you are a clone recruit you MUST not leave spawn unless you are being trained!",
         "Disgusting or Shock Content will result in bans (determined by content!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "Friendly banter is fine, but must stop if it's going to far or the other person doesn't like it!"
+        "Friendly banter is fine, but must stop if it's going to far or the other person doesn't like it!",
         "Do not threaten other players. You will be permanently removed if caught threatening a player!"
 ];
 /*Random message order?*/
