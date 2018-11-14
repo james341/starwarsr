@@ -107,7 +107,7 @@ var l_musicPlaylist = [
         {youtube: "eJTdIpYPrm0", name: "Atlas Gaming - Last Jedi Knight"},
         {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Meghan Trainor's All About That Bass"},
         {youtube: "VzC5jjdZ-J8", name: "Atlas Gaming - Solo Laner Coldplay - PARODY"},
-
+        {youtube: "xoUVtthd7gY", name: "Atlas Gaming - Bastille - Pompeii Audien Remix"},
 
 ];
 
