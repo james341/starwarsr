@@ -99,12 +99,12 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "qJlbPXZEpRE", name: "Atlas Gaming - The Star Wars That I Used To Know"},
+	{youtube: "qSgJeVwjnpc", name: "Atlas Gaming - Let it Flow - Let it Go Frozen Parody"},
 	{youtube: "1cp0bUVMKps", name: "Atlas Gaming - Clone Wars Tribute - REMAKE - Battle Scars"},
         {youtube: "dLHCS6oL7lo", name: "Atlas Gaming - Holding Out For a Hero"},
         {youtube: "8qO23cJ7US0", name: "Atlas Gaming - I Just Haven't Killed You Yet"},
         {youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Yankovic - The Saga Begins"},
-        {youtube: "eJTdIpYPrm0", name: "Atlas Gaming - Last Jedi Knight"},
+        {youtube: "4J4zA9OYIco", name: "Atlas Gaming - Get Your Shit Together Rick and Morty"},
         {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Meghan Trainor's All About That Bass"},
         {youtube: "VzC5jjdZ-J8", name: "Atlas Gaming - Solo Laner Coldplay - PARODY"},
         {youtube: "xoUVtthd7gY", name: "Atlas Gaming - Bastille - Pompeii Audien Remix"},
@@ -123,7 +123,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Do not harass or disrespect others!",
+	"If you have a suggestion for the server or if you believe there is something to improve on, create a thread on the forums!",
 	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
 	"In game currency may not be sold or traded for real life items, currency or credits!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
