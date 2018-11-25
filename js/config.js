@@ -99,15 +99,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "qSgJeVwjnpc", name: "Atlas Gaming - Let it Flow - Let it Go Frozen Parody"},
-	{youtube: "1cp0bUVMKps", name: "Atlas Gaming - Clone Wars Tribute - REMAKE - Battle Scars"},
-        {youtube: "dLHCS6oL7lo", name: "Atlas Gaming - Holding Out For a Hero"},
-        {youtube: "8qO23cJ7US0", name: "Atlas Gaming - I Just Haven't Killed You Yet"},
-        {youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Yankovic - The Saga Begins"},
-        {youtube: "4J4zA9OYIco", name: "Atlas Gaming - Get Your Shit Together Rick and Morty"},
-        {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Meghan Trainor's All About That Bass"},
-        {youtube: "VzC5jjdZ-J8", name: "Atlas Gaming - Solo Laner Coldplay - PARODY"},
-        {youtube: "xoUVtthd7gY", name: "Atlas Gaming - Bastille - Pompeii Audien Remix"},
+	{youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+	{youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
+        {youtube: "MMD9n-YZ93o", name: "Zoinked - Installation Music"},
 
 ];
 
