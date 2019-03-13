@@ -65,6 +65,8 @@ var l_bgImages = [
         "image10.jpg",
         "image11.jpg",
         "image12.jpg",
+        "image13.jpg",
+        "image14.jpg",
 
 ];
 
@@ -99,14 +101,14 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-	{youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+	{youtube: "3af_y4tWIy8", name: "Atlas Gaming - Installation Music"},
+	{youtube: "4_PMZUu9pww", name: "Atlas Gaming - Installation Music"},
         {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+        {youtube: "6po9LkU5vM8", name: "Atlas Gaming - Installation Music"},
         {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+        {youtube: "XK1n-Yv6N4E", name: "Atlas Gaming - Installation Music"},
+        {youtube: "sUTdaqV8SLs", name: "Atlas Gaming - Installation Music"},
+        {youtube: "UFBK43Te3pg", name: "Atlas Gaming - Installation Music"},
         {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
 
 ];
@@ -125,9 +127,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"If you have a suggestion for the server or if you believe there is something to improve on, create a thread on the forums!",
 	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
-	"In game currency may not be sold or traded for real life items, currency or credits!",
+	"Game currency may not be sold or traded for real life items, currency or credits!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
-        "Clones are not to enter AOS areas without the correct rank, doing so can result in an arrest by CG!",
+        "Clones Do not to enter AOS areas without the correct Rank, doing so can result in an arrest by CG!",
         "Naval cannot bail themselves out of jail, or order someone to bail them out of jail!",
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Jedi that are listed as officers within their linked battalion have all the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
@@ -147,7 +149,7 @@ var l_messages = [
         "Disgusting or Shock Content will result in bans (determined by content!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "Friendly banter is fine, but must stop if it's going to far or the other person doesn't like it!",
-        "Do not threaten other players. You will be permanently removed if caught threatening a player!"
+        "Please Do not threaten other players. You will be permanently removed if caught threatening a player!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
