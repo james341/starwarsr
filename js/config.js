@@ -67,6 +67,7 @@ var l_bgImages = [
         "image12.jpg",
         "image13.jpg",
         "image14.jpg",
+        "image15.jpg",
 
 ];
 
@@ -109,7 +110,7 @@ var l_musicPlaylist = [
         {youtube: "XK1n-Yv6N4E", name: "Atlas Gaming - Installation Music"},
         {youtube: "sUTdaqV8SLs", name: "Atlas Gaming - Installation Music"},
         {youtube: "UFBK43Te3pg", name: "Atlas Gaming - Installation Music"},
-        {youtube: "MMD9n-YZ93o", name: "Atlas Gaming - Installation Music"},
+        {youtube: "0c0uvXjGg0", name: "Atlas Gaming - Installation Music"},
 
 ];
 
@@ -125,12 +126,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"If you have a suggestion for the server or if you believe there is something to improve on, create a thread on the forums!",
-	"Do not spam. Spam: Excessively typing/saying/doing something repeatedly in quick succession!",
+	"If a staff member finds what you're doing unreasonable, you must stop, whether it is explicitly stated on the rules or not!",
+	"Do not turn off/destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
 	"Game currency may not be sold or traded for real life items, currency or credits!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Clones Do not to enter AOS areas without the correct Rank, doing so can result in an arrest by CG!",
-        "Naval cannot bail themselves out of jail, or order someone to bail them out of jail!",
+        "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
         "Do not FailRP (Fail Role Play). This is when you do something unrealistic!", 
         "Jedi that are listed as officers within their linked battalion have all the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
         "You may opt out of being in an event but you MUST not get in the way of the event, as well you cannot use any authority you have to tell others they cannot participate just because you don't wish to!",
@@ -141,14 +142,14 @@ var l_messages = [
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Do not involve yourself in situations especially admin situations which you are not apart of in the first place!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
+        "No porn/NSFW content, illegal garbage, ear rape garbage, racist garbage, erotic garbage or star wars related movie/show spoilers are to be played or shown on your media (includes radio and messhall screen). Staff discretion overwrites this ruling!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "If you are a clone recruit you MUST not leave spawn unless you are being trained!",
         "Disgusting or Shock Content will result in bans (determined by content!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "Friendly banter is fine, but must stop if it's going to far or the other person doesn't like it!",
+        "Names must be player appropriate and must not be lore character names, nor ranks from the current Star Wars Universe. Staff have discretion on what is and is not appropriate!",
         "Please Do not threaten other players. You will be permanently removed if caught threatening a player!"
 ];
 /*Random message order?*/
