@@ -102,15 +102,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-	{youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
+	{youtube: "qSgJeVwjnpc", name: "Atlas Gaming - Installation Music"},
+	{youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "qJlbPXZEpRE", name: "Atlas Gaming - Installation Music"},
+        {youtube: "eRlKUj0c5sY", name: "Atlas Gaming - Installation Music"},
+        {youtube: "HOVCAMbWaVI", name: "Atlas Gaming - Installation Music"},
+        {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Installation Music"},
+        {youtube: "6ypqreQH5a4", name: "Atlas Gaming - Installation Music"},
+        {youtube: "duBSh1hqsQo", name: "Atlas Gaming - Installation Music"},
+        {youtube: "QIdw7OozILI", name: "Atlas Gaming - Installation Music"},
 
 ];
 
@@ -126,9 +126,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"If a staff member finds what you're doing unreasonable, you must stop, whether it is explicitly stated on the rules or not!",
+	"Spoilers on Star Wars films or TV shows within their first month of release will result in a minimum one week ban!",
 	"Do not turn off/destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
-	"Game currency may not be sold or traded for real life items, currency or credits!",
+	"The Jedi leap may not be used outside of events/training without permission!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
         "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
@@ -150,7 +150,7 @@ var l_messages = [
         "Disgusting or Shock Content will result in bans (determined by content!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "Names must be player appropriate and must not be lore character names, nor ranks from the current Star Wars Universe. Staff have discretion on what is and is not appropriate!",
-        "Please Do not threaten other players. You will be permanently removed if caught threatening a player!"
+        "Staff word is final. If you disagree with a staff member's judgment, report it on the forums!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
