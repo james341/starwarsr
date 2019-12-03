@@ -102,15 +102,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "eLvrYv84Soc", name: "Atlas Gaming - Installation Music"},
-	{youtube: "JNhny0zu89o", name: "Atlas Gaming - Installation Music"},
-        {youtube: "jRr5EasAq84", name: "Atlas Gaming - Installation Music"},
-        {youtube: "XNEDoARuzxE", name: "Atlas Gaming - Installation Music"},
-        {youtube: "dvgZkm1xWPE", name: "Atlas Gaming - Installation Music"},
-        {youtube: "bV582wEUIWw", name: "Atlas Gaming - Installation Music"},
-        {youtube: "4o9rZTIWhj4", name: "Atlas Gaming - Installation Music"},
+	{youtube: "XPpTgCho5ZA", name: "Atlas Gaming - Installation Music"},
+	{youtube: "1G4isv_Fylg", name: "Atlas Gaming - Installation Music"},
+        {youtube: "8UVNT4wvIGY", name: "Atlas Gaming - Installation Music"},
+        {youtube: "jXHzjdLFLiM", name: "Atlas Gaming - Installation Music"},
+        {youtube: "irljBY9J5ig", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ONg4SK39-Kg", name: "Atlas Gaming - Installation Music"},
+        {youtube: "DqMZ8TieXfU", name: "Atlas Gaming - Installation Music"},
         {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Installation Music"},
-        {youtube: "BMWBnrAHl_Y", name: "Atlas Gaming - Installation Music"},
+        {youtube: "hEcjgJSqSRU", name: "Atlas Gaming - Installation Music"},
 
 ];
 
@@ -126,9 +126,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Spoilers on Star Wars films or TV shows within their first month of release will result in a minimum one week ban!",
+	"Do not land or fly out of the Venator without Venator Crew's Permissions!",
 	"Do not turn off/destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
-	"The Jedi leap may not be used outside of events/training without permission!",
+	"Jedi takes priority in Sith fights/Lightsaber duels. Clones should NOT fire when a Sith and Jedi are Fighting!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
         "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
@@ -138,16 +138,16 @@ var l_messages = [
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Mingeing means purposefully harming the roleplay of the server, breaking or attempting to break the server's rules in any way and generally acting like an idiot!",
-        "If you are told to stop, you stop. Make an appeal or report if you disagree with a decision!",
+        "To join anything other than clone trooper, you must be in our Teamspeak at ts.gaminglight.com! (This includes donator battalions!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Donations can not be refunded, swapped or exchanged unless with explicit circumstances and discussion with the executive members of the staff team, such situations (an unforeseen issue has appeared with the product, such as a broken model!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "A maximum of two tryouts can be held a day, one public tryout and one private tryout!",
+        "You must follow all Jedi Guidelines and Rules within the Jedi Order!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Whenever the General Cards walks into a room/past the commanding officer will say General on Deck and everyone will salute and stand to attention until told at ease or given further instructions!",
-        "XP, skill points, hilts, and crystals may only be handed out to Jedi with a Jedi General present to confirm!",
+        "Certain Fleet Ranks can demote and promote anyone except Jedi and only Jedi. Inform a troopers commander about a demotion or promotion every time!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "Names must be player appropriate and must not be lore character names, nor ranks from the current Star Wars Universe. Staff have discretion on what is and is not appropriate!",
         "Spoilers on Star Wars films or TV shows within their first month of release will result in a minimum one week Ban!"
