@@ -102,15 +102,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "XPpTgCho5ZA", name: "Atlas Gaming - Installation Music"},
-	{youtube: "1G4isv_Fylg", name: "Atlas Gaming - Installation Music"},
-        {youtube: "8UVNT4wvIGY", name: "Atlas Gaming - Installation Music"},
-        {youtube: "jXHzjdLFLiM", name: "Atlas Gaming - Installation Music"},
-        {youtube: "irljBY9J5ig", name: "Atlas Gaming - Installation Music"},
-        {youtube: "ONg4SK39-Kg", name: "Atlas Gaming - Installation Music"},
-        {youtube: "DqMZ8TieXfU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "RV5WqRnFejI", name: "Atlas Gaming - Installation Music"},
-        {youtube: "fAwiZALi21U", name: "Atlas Gaming - Installation Music"},
+	{youtube: "7c5S50Eh36k", name: "Atlas Gaming - Installation Music"},
+	{youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
+        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
 
 ];
 
