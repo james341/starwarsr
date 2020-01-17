@@ -109,8 +109,8 @@ var l_musicPlaylist = [
         {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
         {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
         {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
-        {youtube: "hvGfMQdzU3c", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
 
 ];
 
@@ -119,7 +119,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
