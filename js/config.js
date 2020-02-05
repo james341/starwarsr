@@ -102,15 +102,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "7c5S50Eh36k", name: "Atlas Gaming - Installation Music"},
-	{youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "nnUZ4WmeWuk", name: "Atlas Gaming - Installation Music"},
-        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
-        {youtube: "nnUZ4WmeWuk", name: "Atlas Gaming - Installation Music"},
-        {youtube: "ObtiFpMNFuU", name: "Atlas Gaming - Installation Music"},
+	{youtube: "ObtiFpMNFuU", name: "Atlas - Installation Music"},
+	{youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "z13qjYsWrN0", name: "Atlas - Installation Music"},
+        {youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "", name: "Atlas - Installation Music"},
+        {youtube: "f0ixP0qsLrs", name: "Atlas - Installation Music"},
 
 ];
 
@@ -119,7 +119,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 20;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
