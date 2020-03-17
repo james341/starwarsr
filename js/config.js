@@ -129,7 +129,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Do not land or fly out of the Venator without Venator Crew's Permissions!",
+	"You are not to switch classes in front of other players. Should you need to switch, go to bunks or an empty room and switch!",
 	"Do not turn off/destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
 	"Jedi takes priority in Sith fights/Lightsaber duels. Clones should NOT fire when a Sith and Jedi are Fighting!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
@@ -141,7 +141,7 @@ var l_messages = [
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Mingeing means purposefully harming the roleplay of the server, breaking or attempting to break the server's rules in any way and generally acting like an idiot!",
-        "To join anything other than clone trooper, you must be in our Teamspeak at ts.gaminglight.com! (This includes donator battalions!",
+        "Neutral jobs have only open comms. In addition to that maintenance droids, medical droids and bounty hunters working for the republic have secured comms  It is FailRP to ‘steal’ comms unless the staff has granted Permission!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Donations can not be refunded, swapped or exchanged unless with explicit circumstances and discussion with the executive members of the staff team, such situations (an unforeseen issue has appeared with the product, such as a broken model!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
@@ -149,11 +149,11 @@ var l_messages = [
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
-        "Whenever the General Cards walks into a room/past the commanding officer will say General on Deck and everyone will salute and stand to attention until told at ease or given further instructions!",
+        "You are not to switch classes in front of other players. Should you need to switch, go to bunks or an empty room and switch!",
         "Certain Fleet Ranks can demote and promote anyone except Jedi and only Jedi. Inform a troopers commander about a demotion or promotion every time!",
-        "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
+        "Regimental higher-ups may hand out regimental discords however it is not a requirement for players to join them. Any discord relating to MVG which is handed out in-game to players i.e - regimental discords, must abide by MVG’s rules!",
         "Names must be player appropriate and must not be lore character names, nor ranks from the current Star Wars Universe. Staff have discretion on what is and is not appropriate!",
-        "Spoilers on Star Wars films or TV shows within their first month of release will result in a minimum one week Ban!"
+        "Switching of Bodygroups should be treated the same as switching jobs!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
