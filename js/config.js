@@ -107,10 +107,10 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "PGu54V6QuaY", name: "Atlas - Installation Music"},
 	{youtube: "", name: "Nations - Installation Music"},
+        {youtube: "i5chHfK6sCc", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
-        {youtube: "", name: "Nations - Installation Music"},
-        {youtube: "", name: "Nations - Installation Music"},
+        {youtube: "hEcjgJSqSRU", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
         {youtube: "PGu54V6QuaY", name: "Nations - Installation Music"},
