@@ -105,14 +105,14 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "PGu54V6QuaY", name: "Atlas - Installation Music"},
-	{youtube: "", name: "Nations - Installation Music"},
+	{youtube: "qJlbPXZEpRE", name: "Atlas - Installation Music"},
+	{youtube: "KDuU3bzMZhY", name: "Nations - Installation Music"},
         {youtube: "i5chHfK6sCc", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
         {youtube: "hEcjgJSqSRU", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
-        {youtube: "", name: "Nations - Installation Music"},
+        {youtube: "RV5WqRnFejI", name: "Nations - Installation Music"},
         {youtube: "PGu54V6QuaY", name: "Nations - Installation Music"},
 
 ];
@@ -130,14 +130,14 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"You are not to switch classes in front of other players. Should you need to switch, go to bunks or an empty room and switch!",
-	"Do not turn off/destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
+	"If you are being removed from a regiment, the CO must provide ample reasoning about the Removal!",
 	"Jedi takes priority in Sith fights/Lightsaber duels. Clones should NOT fire when a Sith and Jedi are Fighting!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
         "An individual may opt out of an event if they do not wish to participate, but may not actively attempt to stop the event outside of roleplay. No one can be forced to sit out of an event!",
         "All donations are subject to all regular server rules, donations will in no way grant any form of immunity against punishment and can be retracted if the transgressions have been sufficiently deemed as requiring such!", 
-        "Jedi that are listed as officers within their linked battalion have all the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
-        "You may opt out of being in an event but you MUST not get in the way of the event, as well you cannot use any authority you have to tell others they cannot participate just because you don't wish to!",
+        "Jedi that are listed as Officers within their linked battalion have All the privileges of  an officer. This includes claiming rooms, accessing AOS Areas, giving PTS, etc!",
+        "No RDM [Random Death Match]: The act of killing or attempting to kill a player with no roleplay reasoning behind said act!",
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Mingeing means purposefully harming the roleplay of the server, breaking or attempting to break the server's rules in any way and generally acting like an idiot!",
@@ -146,14 +146,14 @@ var l_messages = [
         "Donations can not be refunded, swapped or exchanged unless with explicit circumstances and discussion with the executive members of the staff team, such situations (an unforeseen issue has appeared with the product, such as a broken model!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "You must follow all Jedi Guidelines and Rules within the Jedi Order!",
-        "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
+        "The use of force abilities on the Venator / Base Maps is prohibited unless in training, this rule is voided if in combat or DEFCON is at III or Lower!",
         "Under no circumstances may a Jedi use a gun/grenades/stim kits. Lightsaber and Knives/fists Only!",
-        "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
+        "Follow all in-game guidelines, such as rules set by CG or RHC!",
         "You are not to switch classes in front of other players. Should you need to switch, go to bunks or an empty room and switch!",
         "Certain Fleet Ranks can demote and promote anyone except Jedi and only Jedi. Inform a troopers commander about a demotion or promotion every time!",
         "Regimental higher-ups may hand out regimental discords however it is not a requirement for players to join them. Any discord relating to MVG which is handed out in-game to players i.e - regimental discords, must abide by MVG’s rules!",
-        "Names must be player appropriate and must not be lore character names, nor ranks from the current Star Wars Universe. Staff have discretion on what is and is not appropriate!",
-        "Switching of Bodygroups should be treated the same as switching jobs!"
+        "You may only recruit a maximum of three troopers in a public tryout and one in a private tryout!",
+        "Switching of Bodygroups should be Treated the same as Switching jobs!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
