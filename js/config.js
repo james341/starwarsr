@@ -105,15 +105,15 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "0kWAtHWzxnA", name: "Atlas - Installation Music"},
-	{youtube: "cqSYHRE7UYI", name: "Nations - Installation Music"},
-        {youtube: "6p6DmF4B6xE", name: "Nations - Installation Music"},
-        {youtube: "RV5WqRnFejI", name: "Nations - Installation Music"},
-        {youtube: "BFq1tl1ZEBI", name: "Nations - Installation Music"},
-        {youtube: "hEcjgJSqSRU", name: "Nations - Installation Music"},
+	{youtube: "6ypqreQH5a4", name: "Atlas - Installation Music"},
+	{youtube: "hvGfMQdzU3c", name: "Nations - Installation Music"},
+        {youtube: "hvGfMQdzU3c", name: "Nations - Installation Music"},
+        {youtube: "hvGfMQdzU3c", name: "Nations - Installation Music"},
+        {youtube: "hvGfMQdzU3c", name: "Nations - Installation Music"},
+        {youtube: "hvGfMQdzU3c", name: "Nations - Installation Music"},
         {youtube: "", name: "Nations - Installation Music"},
         {youtube: "RV5WqRnFejI", name: "Nations - Installation Music"},
-        {youtube: "PGu54V6QuaY", name: "Nations - Installation Music"},
+        {youtube: "6ypqreQH5a4", name: "Nations - Installation Music"},
 
 ];
 
