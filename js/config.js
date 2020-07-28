@@ -130,7 +130,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"You are not to switch classes in front of other players. Should you need to switch, go to bunks or an empty room and switch!",
-	"If you are being removed from a regiment, the CO must provide ample reasoning about the Removal!",
+	"No Lore characters, unless given specific permission for future events/activities!",
 	"Jedi takes priority in Sith fights/Lightsaber duels. Clones should NOT fire when a Sith and Jedi are Fighting!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "NEVER hurt a brother in any way. Never shoot or handcuff another clone trooper, Unless given orders from a commander you may cuff a “rogue” clone!",
@@ -152,8 +152,8 @@ var l_messages = [
         "You are not to switch classes in front of other players. Should you need to switch, go to bunks or an empty room and switch!",
         "Certain Fleet Ranks can demote and promote anyone except Jedi and only Jedi. Inform a troopers commander about a demotion or promotion every time!",
         "Regimental higher-ups may hand out regimental discords however it is not a requirement for players to join them. Any discord relating to MVG which is handed out in-game to players i.e - regimental discords, must abide by MVG’s rules!",
-        "You may only recruit a maximum of three troopers in a public tryout and one in a private tryout!",
-        "Switching of Bodygroups should be Treated the same as Switching jobs!"
+        "You are not allowed to set lockdown/hyperspace without permission!",
+        "Please don't contact the owner(s) immediately, take it up the chain of command!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
